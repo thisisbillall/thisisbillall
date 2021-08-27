@@ -1,8 +1,7 @@
-<style>
-  .ab{
-color:white;
-}
- </style>
+<head>
+  <link rel="stylesheet" href="https://github.com/thisisbillall/thisisbillall/blob/main/css/styles.css">
+</head>
+
 <h1>Hi, I`m Bilal ! 👋👨‍💻</h1>
 
 <img src="https://github.com/thisisbillall/thisisbillall/blob/main/img/Banner.jpg"><h1 class="ab"> Bilal </h1></img>
