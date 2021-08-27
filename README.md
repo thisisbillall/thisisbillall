@@ -1,4 +1,4 @@
-<h1>Hi, I`m Bilal ! 👋</h1>
+<h1>Hi, I`m Bilal ! 👋👨‍💻</h1>
 <img src="x"/>
 <!--
 **thisisbillall/thisisbillall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
