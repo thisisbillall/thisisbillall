@@ -1,5 +1,8 @@
 <h1>Hi, I`m Bilal ! 👋👨‍💻</h1>
-<img src="https://github.com/thisisbillall/thisisbillall/blob/main/img/Banner.jpg"><h1 style="color:white"> Bilal </h1></img>
+.ab{
+color:white;
+}
+<img src="https://github.com/thisisbillall/thisisbillall/blob/main/img/Banner.jpg"><h1 class="ab"> Bilal </h1></img>
 <!--
 **thisisbillall/thisisbillall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
