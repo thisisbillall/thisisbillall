@@ -8,7 +8,7 @@
 
 <table>
   <tr>
-      <th><span class"fa fa-facebook"><span></th>
+      <th><span class="fa fa-facebook"><span></th>
       <th></th>
   </tr>
 </table>
