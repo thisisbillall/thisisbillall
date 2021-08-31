@@ -2,5 +2,5 @@
 
 <img src= "https://github.com/thisisbillall/thisisbillall/blob/main/img/Banner.jpg" />
 
-![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisbillall&show_icons=true)
+![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisbillall&show_icons=true&theme=tokyonight)
 
