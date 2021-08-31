@@ -12,6 +12,6 @@
       <th>Links</th>
   </tr>
    <tr>
-      <td><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.freepnglogos.com%2Fuploads%2Flogo-ig-png%2Flogo-ig-instagram-icon-download-icons-12.png&imgrefurl=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Flogo-ig&tbnid=mzIdujZriRA48M&vet=12ahUKEwiettamztryAhVVlEsFHQ83BKoQMygBegUIARCwAQ..i&docid=m5b-prZD9tckpM&w=1600&h=1600&q=insta%20png&hl=en&ved=2ahUKEwiettamztryAhVVlEsFHQ83BKoQMygBegUIARCwAQ"/></td>
+      <td><img src="https://github.com/thisisbillall/thisisbillall/blob/main/img/insta.png"/></td>
   </tr>
 </table>
