@@ -2,6 +2,6 @@
 
 <img src= "https://github.com/thisisbillall/thisisbillall/blob/main/img/Banner.jpg" />
 
-![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisbillall&show_icons=true)
+![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisbillall&show_icons=true)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisbillall&layout=compact)](https://github.com/thisisbillall/github-readme-stats)
 
