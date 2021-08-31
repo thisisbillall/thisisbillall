@@ -8,6 +8,7 @@
 
 <table>
   <tr>
+    <th>Socials:</th>
       <th><a href="https://twitter.com/thisisbillall"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;</th>
       <th><a href="https://www.linkedin.com/in/thisisbillall/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a></th>
       <th><a href="https://instagram.com/thisisbillall"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
