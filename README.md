@@ -1,7 +1,7 @@
 <h1>Exploring the universe via code !💻</h1>
 
 <img src= "https://github.com/thisisbillall/thisisbillall/blob/main/img/Banner.jpg" />
-##My Stats:
+<h1><b>My Stats:</b></h1>
 
 ![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisbillall&show_icons=true)<br/>
 
