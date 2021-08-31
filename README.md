@@ -4,8 +4,8 @@
 <h1><b>Contributions & Tech-stack:</b></h1>
 
 ![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisbillall&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisbillall&layout=compact)](https://github.com/thisisbillall/github-readme-stats)
-<center>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisbillall)](https://github.com/thisisbillall/github-readme-stats)
+
 <h1><b>Socials:</b></h1>
 <table align="center">
   <tr>
@@ -18,4 +18,4 @@
 
   </tr>
 </table>
-</center>
+
