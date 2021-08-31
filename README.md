@@ -9,6 +9,7 @@ Tech Stack
 
 <table>
   <tr>
-    <h1><b>Contributions:</b></h1>
+      <th>Contributions:</th>
+      <th>Tech-Stack</th>
   </tr>
 </table>
