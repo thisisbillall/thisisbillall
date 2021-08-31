@@ -7,3 +7,8 @@
 Tech Stack
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisbillall&layout=compact)](https://github.com/thisisbillall/github-readme-stats)
 
+<table>
+  <tr>
+    <h1><b>Contributions:</b></h1>
+  </tr>
+</table>
