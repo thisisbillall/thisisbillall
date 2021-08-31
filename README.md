@@ -12,4 +12,8 @@ Tech Stack
       <th>Contributions:</th>
       <th>Tech-Stack</th>
   </tr>
+   <tr>
+      <td>![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisbillall&show_icons=true)</td>
+      <td>Maria Anders</td>
+  </tr>
 </table>
