@@ -1,10 +1,10 @@
 <h1>Exploring the universe via code !💻</h1>
 
 <img src= "https://github.com/thisisbillall/thisisbillall/blob/main/img/Banner.jpg"/>
-<h1><b>Contributions:</b></h1>
+<h1><b>Contributions and Lang`s:</b></h1>
 
 ![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisbillall&show_icons=true)
-**Languages:
+<h6 style="color:black">Languages:</h6>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisbillall)](https://github.com/thisisbillall/github-readme-stats)
 
 <h1><b>Socials:</b></h1>
@@ -20,6 +20,3 @@
   </tr>
 </table>
 
-<center>
-<img  src="https://camo.githubusercontent.com/d78b310fa54b6408f4712645dde82295ec5d3b08d2e475cb8e532f07c748d14d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d74686973697362696c6c616c6c2673686f775f69636f6e733d74727565"/>
-</center>
