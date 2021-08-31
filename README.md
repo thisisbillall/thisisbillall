@@ -12,6 +12,6 @@
       <th>Links</th>
   </tr>
    <tr>
-      <td><img src="https://github.com/thisisbillall/thisisbillall/blob/main/img/insta.png"/></td>
+      <td><img src="https://github.com/thisisbillall/thisisbillall/blob/main/img/insta.png" style="height:10px"/></td>
   </tr>
 </table>
