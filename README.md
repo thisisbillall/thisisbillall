@@ -8,10 +8,7 @@
 
 <table>
   <tr>
-      <th>Socials</th>
-      <th>Links</th>
-  </tr>
-   <tr>
-      <td><img src="https://github.com/thisisbillall/thisisbillall/blob/main/img/insta.png" style="height:10px"/></td>
+      <th><span class"fa fa-facebook"><span></th>
+      <th></th>
   </tr>
 </table>
