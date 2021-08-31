@@ -3,7 +3,7 @@
 <img src= "https://github.com/thisisbillall/thisisbillall/blob/main/img/Banner.jpg"/>
 <h1><b>Contributions:</b></h1>
 
-![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisbillall&show_icons=true&align=center)<br/>
+![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisbillall&show_icons=true&align=center)
 <h1><b>Languages:</b></h1>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisbillall)](https://github.com/thisisbillall/github-readme-stats)
 
