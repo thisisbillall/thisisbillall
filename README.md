@@ -22,7 +22,7 @@
 </table> -->
 
 
-<h1><b>Techs I know: </b></h1>
+<h1 style="color:blue"><b>Techs I know: </b></h1>
 <h3><b><li>HTML</li></b></h3>
 <h3><b><li>CSS --TAILWIND CSS</li></b></h3>
 <h3><b><li>JAVASCRIPT --REACTJS / NODEJS</li></b></h3>
