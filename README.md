@@ -10,7 +10,7 @@
 <h3><b><li>DB --MONGODB/MYSQL</li></b></h3>
 <h3><b><li>DevOps --DOCKER/KUBERNETES</li></b></h3>
 
-
+<hr/>
 
 <h3><b>Open Source Contributions:</b></h3>
 <h4> I have been using REACT JS for frontend development since a year and built many projects and did some contributions listed below. </h4>
