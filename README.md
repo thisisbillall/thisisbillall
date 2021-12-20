@@ -66,7 +66,7 @@
 <h4><b>●	Quick learner and a teamplayer.</b></h4>
 <h4><b>●	Published an Flutter article  on Geeksforgeeks.</b></h4>
 <h4><b>●	Active on Slack / Discord / Twitter communities.</b></h4>
-<h4><b>●	I am good with reading documentation and trying new things on my own. Also if I get stuck I first google it out myself and ask for help only when I can't get on sites <h4><b>like stackoverflow or in official documentation. </b></h4>
+<h4><b>●	I am good with reading documentation and trying new things on my own. Also if I get stuck I first google it out myself and ask for help only when I can't get on sites like stackoverflow or in official documentation. </b></h4>
 <h4><b>●	 I am an open source enthusiast having pretty good experience in Web Development, Linux and Cloud also I am currently learning Go. </b></h4>
 <h4><b>●	 I have been using various Linux distributions for my daily use and software development for the past 3 years. </b></h4>
 <h4><b>●	My passion for computer science which always keeps me enthusiastic to learn new things and implement the software solutions that are useful to the masses. </b></h4>
@@ -85,16 +85,16 @@
 <hr/>
 
 
+<h3><b>Other Relevant Information:</b></h3>
 
-Any Other Relevant Information:
-Portfolio:http://portfolio-thisisbillall.netlify.app/
-Github: https://github.com/thisisbillall
-LinkedIn: https://www.linkedin.com/in/mohammad-bilal-kalut-5a4457194/
-Resume:https://drive.google.com/file/d/1Y8KUfiQHoqXokWmijYSQg3Al3nfjRk3w/view?usp=sharing
-Twitter:https://twitter.com/thisisbillall
-Hackerrank:https://www.hackerrank.com/thisisbillall?hr_r=1
-Leetcode:https://leetcode.com/thisisbillall/
-GeeksForGeeks:https://auth.geeksforgeeks.org/user/thisisbillall
+<h4><b>Portfolio:http://portfolio-thisisbillall.netlify.app/</b></h4>
+<h4><b>Github: https://github.com/thisisbillall</b></h4>
+<h4><b>LinkedIn: https://www.linkedin.com/in/mohammad-bilal-kalut-5a4457194/</b></h4>
+<h4><b>Resume:https://drive.google.com/file/d/1Y8KUfiQHoqXokWmijYSQg3Al3nfjRk3w/view?usp=sharing</b></h4>
+<h4><b>Twitter:https://twitter.com/thisisbillall</b></h4>
+<h4><b>Hackerrank:https://www.hackerrank.com/thisisbillall?hr_r=1</b></h4>
+<h4><b>Leetcode:https://leetcode.com/thisisbillall/</b></h4>
+<h4><b>GeeksForGeeks:https://auth.geeksforgeeks.org/user/thisisbillall</b></h4>
 
 <hr/>
 
