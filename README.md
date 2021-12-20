@@ -8,7 +8,7 @@
 ![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisbillall&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisbillall)](https://github.com/thisisbillall/github-readme-stats)
 
-<h1><b>Socials:</b></h1>
+<!-- <h1><b>Socials:</b></h1>
 <table align="center">
   <tr>
       <th><a href="https://twitter.com/thisisbillall"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;</th>
@@ -19,7 +19,7 @@
       <th><a href="https://leetcode.com/thisisbillall/"><img height="30" src="./img/leet.png"></a>&nbsp;&nbsp;</th>
 
   </tr>
-</table>
+</table> -->
 
 
 <h1><b>Techs I know: </b></h1>
