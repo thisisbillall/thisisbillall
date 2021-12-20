@@ -12,36 +12,35 @@
 
 
 
-<h1><b>Open Source Contributions:</b></h1>
-<h2>
- I have been using REACT JS for frontend development since a year and built many projects and did some contributions listed below. </h2>
+<h3><b>Open Source Contributions:</b></h3>
+<h4> I have been using REACT JS for frontend development since a year and built many projects and did some contributions listed below. </h4>
  
-<h1><b>1] Eaglion Programmer’s Site - REACTJS:</b></h1>
+<h3><b>1] Eaglion Programmer’s Site - REACTJS:</b></h3>
 
-<h2>An Open Source site of an open source community developed during Hacktoberfest 2021, where many members have contributed to it under my maintainership.</h2>
+<h4>An Open Source site of an open source community developed during Hacktoberfest 2021, where many members have contributed to it under my maintainership.</h4>
 
-<h1><b>1] My Roles and Responsibilities:</b></h1>
+<h3><b>1] My Roles and Responsibilities:</b></h3>
 
-<h2><b>1.Code base contribution for various UI components.</b></h2>
-<h2><b>2.Coded responsive Navbar and Card items for homepage.</b></h2>
-<h2><b>3.Reviewing other’s pull requests. </b></h2>
-<h2><b>4.Maintaining the overall project.</b></h2>
-
-
-<h1><b>2] pixSearch - REACTJS:</b></h1>
-
-<h2>pixSearch is a stock images web application developed using REACT JS  and Tailwind CSS.</h2>
-<h1><b>Features:</b></h1>
-
-<h2><b>1.PIXABAY API implementation for fetching and filtering data.</b></h2>
-<h2><b>2.Search Images/Videos using a tag or keyword.</b></h2>
-<h2><b>3.Maintaining details of Image/Video i.e Likes,Comments/Downloads/Uploaded by etc.</b></h2>
-<h2><b>4.Download Images/Videos. </b></h2>
+<h4>1.Code base contribution for various UI components.</h4>
+<h4>2.Coded responsive Navbar and Card items for homepage.</h4>
+<h4>3.Reviewing other’s pull requests. </h4>
+<h4>4.Maintaining the overall project.</h4>
 
 
+<h3><b>2] pixSearch - REACTJS:</b></h3>
 
-<h1><b>3] Kubernetes:</b></h1>
-<h2>With the development of large scale applications managing them is also a great factor to maintain the software life development lifecycle. From making an application portable to  managing , monitoring and debugging it is done using container orchestration and its tools. As a devOps enthusiast I have learned many things that comes under it and currently exploring more on Go language.</h2>
+<h4>pixSearch is a stock images web application developed using REACT JS  and Tailwind CSS.</h4>
+<h3><b>Features:</b></h3>
+
+<h4>1.PIXABAY API implementation for fetching and filtering data.</h4>
+<h4>2.Search Images/Videos using a tag or keyword.</h4>
+<h4>3.Maintaining details of Image/Video i.e Likes,Comments/Downloads/Uploaded by etc.</h4>
+<h4>4.Download Images/Videos. </h4>
+
+
+
+<h3><b>3] Kubernetes:</b></h3>
+<h4>With the development of large scale applications managing them is also a great factor to maintain the software life development lifecycle. From making an application portable to  managing , monitoring and debugging it is done using container orchestration and its tools. As a devOps enthusiast I have learned many things that comes under it and currently exploring more on Go language.</h4>
 
 <h3><b>Things I know in K8s and Containerization:</b></h3>
 <h4>1.Robust Linux Basics.</h4>
