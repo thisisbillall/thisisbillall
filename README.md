@@ -12,7 +12,7 @@
 
 
 
-<h1><b>Open Source Contribution:</b></h1>
+<h1><b>Open Source Contributions:</b></h1>
 <h2>
  I have been using REACT JS for frontend development since a year and built many projects and did some contributions listed below. </h2>
  
@@ -43,15 +43,15 @@
 <h1><b>3] Kubernetes:</b></h1>
 <h2>With the development of large scale applications managing them is also a great factor to maintain the software life development lifecycle. From making an application portable to  managing , monitoring and debugging it is done using container orchestration and its tools. As a devOps enthusiast I have learned many things that comes under it and currently exploring more on Go language.</h2>
 
-<h1><b>Things I know in K8s and Containerization:</b></h1>
-<h2><b>1.Robust Linux Basics.</b></h2>
-<h2><b>2.Kubernetes ,Docker Architecture.</b></h2>
-<h2><b>3.Minikube.</b></h2>
-<h2><b>4.Kubectl.</b></h2>
-<h2><b>5.Creating ,Running, Deploying, Monitoring and Debugging pods.</b></h2>
-<h2><b>6.Creating Namespaces.</b></h2>
-<h2><b>7.YAML Config files etc.</b></h2>
-<h3><b>There are still many things I don't know but being a quick learner and a curious developer ,I am always ready to jump into new technologies fearlessly.</b></h3>
+<h3><b>Things I know in K8s and Containerization:</b></h3>
+<h4>1.Robust Linux Basics.</h4>
+<h4>2.Kubernetes ,Docker Architecture.</h4>
+<h4><b>3.Minikube.</b></h4>
+<h4><b>4.Kubectl.</b></h4>
+<h4><b>5.Creating ,Running, Deploying, Monitoring and Debugging pods.</b></h4>
+<h4><b>6.Creating Namespaces.</b></h4>
+<h4><b>7.YAML Config files etc.</b></h4>
+<h4><b>There are still many things I don't know but being a quick learner and a curious developer ,I am always ready to jump into new technologies fearlessly.</b></h4>
 
 Why are you the best person to execute this proposal? 
 ●	I am active member of various devOps and kubernetes communities like Civo , data on Kubernetes ,Kubernetes etc.
@@ -66,12 +66,6 @@ Why are you the best person to execute this proposal?
 ●	 I am an open source enthusiast having pretty good experience in Web Development, Linux and Cloud also I am currently learning Go. 
 ●	 I have been using various Linux distributions for my daily use and software development for the past 3 years. 
 ●	My passion for computer science which always keeps me enthusiastic to learn new things and implement the software solutions that are useful to the masses. 
-
-
-
-
-
-
 
 
 
