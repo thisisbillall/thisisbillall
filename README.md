@@ -2,7 +2,6 @@
 <!-- 
 <img src= "https://github.com/thisisbillall/thisisbillall/blob/main/img/Banner.jpg"/> -->
 
-<span style="color:orange;">Word up</span>
 
 
 ![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisbillall&show_icons=true)
