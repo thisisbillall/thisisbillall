@@ -12,43 +12,46 @@
 
 
 
+<h1><b>Open Source Contribution:</b></h1>
+<h2>
+ I have been using REACT JS for frontend development since a year and built many projects and did some contributions listed below. </h2>
+ 
+<h1><b>1] Eaglion Programmer’s Site - REACTJS:</b></h1>
+
+<h2>An Open Source site of an open source community developed during Hacktoberfest 2021, where many members have contributed to it under my maintainership.</h2>
+
+<h1><b>1] My Roles and Responsibilities:</b></h1>
+
+<h2><b>1.Code base contribution for various UI components.</b></h2>
+<h2><b>2.Coded responsive Navbar and Card items for homepage.</b></h2>
+<h2><b>3.Reviewing other’s pull requests. </b></h2>
+<h2><b>4.Maintaining the overall project.</b></h2>
 
 
-Open Source Contribution:
-Proposal Description: 
-Going through the Symbl.ai site got to know Symbl.ai provides AI based intelligent conversation APIs. from the tech stack used by Symbl.ai I have been using REACT JS for frontend development since a year and built many projects and did some contributions listed below. 
-1] Eaglion Programmer’s Site - REACTJS:
-An Open Source site of an open source community developed during Hacktoberfest 2021, where many members have contributed to it under my maintainership.
-My Roles and Responsibilities:
-1.Code base contribution for various UI components.
-2.Coded responsive Navbar and Card items for homepage.
-3.Reviewing other’s pull requests. 
-4.Maintaining the overall project.
+<h1><b>2] pixSearch - REACTJS:</b></h1>
 
+<h2>pixSearch is a stock images web application developed using REACT JS  and Tailwind CSS.</h2>
+<h1><b>Features:</b></h1>
 
-2] pixSearch - REACTJS:
-pixSearch is a stock images web application developed using REACT JS  and Tailwind CSS.
-Features:
-PIXABAY API implementation for fetching and filtering data.
-1.Search Images/Videos using a tag or keyword.
-2.Maintaining details of Image/Video i.e Likes,Comments/Downloads/Uploaded by etc.
-3.Download Images/Videos. 
+<h2><b>1.PIXABAY API implementation for fetching and filtering data.</b></h2>
+<h2><b>2.Search Images/Videos using a tag or keyword.</b></h2>
+<h2><b>3.Maintaining details of Image/Video i.e Likes,Comments/Downloads/Uploaded by etc.</b></h2>
+<h2><b>4.Download Images/Videos. </b></h2>
 
 
 
+<h1><b>3] Kubernetes:</b></h1>
+<h2>With the development of large scale applications managing them is also a great factor to maintain the software life development lifecycle. From making an application portable to  managing , monitoring and debugging it is done using container orchestration and its tools. As a devOps enthusiast I have learned many things that comes under it and currently exploring more on Go language.</h2>
 
-
-
-3] Kubernetes: With the development of large scale applications managing them is also a great factor to maintain the software life development lifecycle. From making an application portable to  managing , monitoring and debugging it is done using container orchestration and its tools. As a devOps enthusiast I have learned many things that comes under it and currently exploring more on Go language.
-Things I know in K8s and Containerization:
-1.Robust Linux Basics.
-2.Kubernetes ,Docker Architecture.
-3.Minikube.
-4.Kubectl.
-5.Creating ,Running, Deploying, Monitoring and Debugging pods.
-6.Creating Namespaces.
-7.YAML Config files etc.
-There are still many things I don't know but being a quick learner and a curious developer ,I am always ready to jump into new technologies fearlessly.
+<h1><b>Things I know in K8s and Containerization:</b></h1>
+<h2><b>1.Robust Linux Basics.</b></h2>
+<h2><b>2.Kubernetes ,Docker Architecture.</b></h2>
+<h2><b>3.Minikube.</b></h2>
+<h2><b>4.Kubectl.</b></h2>
+<h2><b>5.Creating ,Running, Deploying, Monitoring and Debugging pods.</b></h2>
+<h2><b>6.Creating Namespaces.</b></h2>
+<h2><b>7.YAML Config files etc.</b></h2>
+<h3><b>There are still many things I don't know but being a quick learner and a curious developer ,I am always ready to jump into new technologies fearlessly.</b></h3>
 
 Why are you the best person to execute this proposal? 
 ●	I am active member of various devOps and kubernetes communities like Civo , data on Kubernetes ,Kubernetes etc.
