@@ -26,6 +26,8 @@
 <h4>3.Reviewing other’s pull requests. </h4>
 <h4>4.Maintaining the overall project.</h4>
 
+<hr/>
+
 
 <h3><b>2] pixSearch - REACTJS:</b></h3>
 
@@ -37,6 +39,7 @@
 <h4>3.Maintaining details of Image/Video i.e Likes,Comments/Downloads/Uploaded by etc.</h4>
 <h4>4.Download Images/Videos. </h4>
 
+<hr/>
 
 
 <h3><b>3] Kubernetes:</b></h3>
@@ -52,28 +55,34 @@
 <h4><b>7.YAML Config files etc.</b></h4>
 <h4><b>There are still many things I don't know but being a quick learner and a curious developer ,I am always ready to jump into new technologies fearlessly.</b></h4>
 
-Why are you the best person to execute this proposal? 
-●	I am active member of various devOps and kubernetes communities like Civo , data on Kubernetes ,Kubernetes etc.
-●	Experienced contributing to Open source projects.
-●	I was a Project Maintainer for an Open source project called Eaglion.
-●	Proficient with version control tools like Git and Github.
-●	Experience building real time applications using REACTJS/NODEJS/TAILWIND CSS/K8S.
-●	Quick learner and a teamplayer.
-●	Published an Flutter article  on Geeksforgeeks.
-●	Active on Slack / Discord / Twitter communities.
-●	I am good with reading documentation and trying new things on my own. Also if I get stuck I first google it out myself and ask for help only when I can't get on sites like stackoverflow or in official documentation. 
-●	 I am an open source enthusiast having pretty good experience in Web Development, Linux and Cloud also I am currently learning Go. 
-●	 I have been using various Linux distributions for my daily use and software development for the past 3 years. 
-●	My passion for computer science which always keeps me enthusiastic to learn new things and implement the software solutions that are useful to the masses. 
+<hr/>
+
+<h3>Why am I the best person to be employed? </h3>
+<h4><b>●	I am active member of various devOps and kubernetes communities like Civo , data on Kubernetes ,Kubernetes etc.</b></h4>
+<h4><b>●	Experienced contributing to Open source projects.</b></h4>
+<h4><b>●	I was a Project Maintainer for an Open source project called Eaglion.</b></h4>
+<h4><b>●	Proficient with version control tools like Git and Github.</b></h4>
+<h4><b>●	Experience building real time applications using REACTJS/NODEJS/TAILWIND CSS/K8S.</b></h4>
+<h4><b>●	Quick learner and a teamplayer.</b></h4>
+<h4><b>●	Published an Flutter article  on Geeksforgeeks.</b></h4>
+<h4><b>●	Active on Slack / Discord / Twitter communities.</b></h4>
+<h4><b>●	I am good with reading documentation and trying new things on my own. Also if I get stuck I first google it out myself and ask for help only when I can't get on sites <h4><b>like stackoverflow or in official documentation. </b></h4>
+<h4><b>●	 I am an open source enthusiast having pretty good experience in Web Development, Linux and Cloud also I am currently learning Go. </b></h4>
+<h4><b>●	 I have been using various Linux distributions for my daily use and software development for the past 3 years. </b></h4>
+<h4><b>●	My passion for computer science which always keeps me enthusiastic to learn new things and implement the software solutions that are useful to the masses. </b></h4>
 
 
 
+<hr/>
 
-
-Which relevant courses have you attended at the University? How was your performance?
-I am currently pursuing a Bachelor of Engineering in Information technology. I am a pre-final year student with a current CGPA of 8.4 at Pune Institute of Computer Technology, Pune. I have also done my Diploma in Computer Technology with 93.37% . My performance in academics and technical work has been excellent. I try to give my 100% to any work I am committed to which helps me to produce high quality results. I have took no. of courses both in my diploma and degree curriculum some of the relevant courses are as follow: 
+ <h3><b>Which relevant courses I have  attended at the University? How was my performance?</b></h3>
+<h4>
+ I am currently pursuing a Bachelor of Engineering in Information technology. I am a pre-final year student with a current CGPA of 8.4 at Pune Institute of Computer Technology, Pune. I have also done my Diploma in Computer Technology with 93.37% . My performance in academics and technical work has been excellent. I try to give my 100% to any work I am committed to which helps me to produce high quality results. I have took no. of courses both in my diploma and degree curriculum some of the relevant courses are as follow:
+ </h4>
+<h4><b>
 ● Data Structures and Algorithms ● Database Management System ● Java Programming ● Computer Network ● Computer Security ● Operating System ● Linux Operating System ● Object Oriented Programming ● Software Engineering ● Software Testing ● System Software ● Communication Skill.
-
+ </b></h4>
+<hr/>
 
 
 
@@ -86,13 +95,8 @@ Twitter:https://twitter.com/thisisbillall
 Hackerrank:https://www.hackerrank.com/thisisbillall?hr_r=1
 Leetcode:https://leetcode.com/thisisbillall/
 GeeksForGeeks:https://auth.geeksforgeeks.org/user/thisisbillall
-________________________________________
 
-
-
-
-
-
+<hr/>
 
 
 
