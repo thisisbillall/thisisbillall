@@ -31,6 +31,16 @@
 
 <hr/>
 
+<h3><b>Internships Experiences:</b></h3>
+
+<h4>React developer @Upcloud Technologies.</h4>
+<h4>Open source Contributer @Hacktoberfest 2021.</h4>
+<h4>.NET developer @AJ Softwares</h4>
+<h4>Full Stack trainee @Core TNP</h4>
+
+<hr/>
+
+
 <h3><b>Open Source Contributions:</b></h3>
 <h4> I have been using REACT JS for frontend development since a year and built many projects and did some contributions listed below. </h4>
  
