@@ -4,7 +4,7 @@
 
 
 
-Techs I know: 
+##Techs I know: 
 HTML
 CSS --TAILWIND CSS
 JAVASCRIPT --REACTJS / NODEJS
