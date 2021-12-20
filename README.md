@@ -5,10 +5,14 @@
 
 <h1><b>Techs I know: </b></h1>
 <h3><b><li>HTML</li></b></h3>
-CSS --TAILWIND CSS
-JAVASCRIPT --REACTJS / NODEJS
-DB --MONGODB/MYSQL
-DevOps --DOCKER/KUBERNETES
+<h3><b><li>CSS --TAILWIND CSS</li></b></h3>
+<h3><b><li>JAVASCRIPT --REACTJS / NODEJS</li></b></h3>
+<h3><b><li>DB --MONGODB/MYSQL</li></b></h3>
+<h3><b><li>DevOps --DOCKER/KUBERNETES</li></b></h3>
+
+
+
+
 
 Open Source Contribution:
 Proposal Description: 
