@@ -4,7 +4,7 @@
 
 
 <h1><b>Techs I know: </b></h1>
-<li><h3><b>HTML</b></h3></li>
+<h3><b><li>HTML</li></b></h3>
 CSS --TAILWIND CSS
 JAVASCRIPT --REACTJS / NODEJS
 DB --MONGODB/MYSQL
