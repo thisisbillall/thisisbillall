@@ -3,8 +3,7 @@
 <img src= "https://github.com/thisisbillall/thisisbillall/blob/main/img/Banner.jpg"/>
 
 
-
-##Techs I know: 
+<h1><b>Techs I know: </b></h1>
 HTML
 CSS --TAILWIND CSS
 JAVASCRIPT --REACTJS / NODEJS
